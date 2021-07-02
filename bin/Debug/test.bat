@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy RemoteSigned ./test.ps1
