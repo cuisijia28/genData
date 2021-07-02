@@ -36,7 +36,6 @@ namespace genData
 
         public Form2(string connstr)
         {
-            //this.conn = new MySqlConnection(connstr);
             InitializeComponent();
             this.connstr = connstr;
             init();
